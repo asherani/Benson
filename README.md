@@ -9,10 +9,6 @@
 
 * ARI
 
-### GitHub Repo
-
-https://github.com/asherani/Benson/
-
 ### Problem Statement
 
 Stakeholder: WTWY International
