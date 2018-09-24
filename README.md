@@ -11,8 +11,8 @@
 
 ### Problem Statement
 
-Stakeholder: WTWY International
+<u>Stakeholder</u>: WTWY International
 
-Customer Verbatim: "help us optimize the placement of our street teams"
+<u>Customer Verbatim</u>: "help us optimize the placement of our street teams"
 
-Objective: Maximize Signatures
+<u>Objective</u>: Maximize Signatures
