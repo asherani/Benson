@@ -1,6 +1,6 @@
-#BENSON PROJECT - TEAM ABA
+# BENSON PROJECT - TEAM ABA
 
-##2018.09.24
+## 2018.09.24
 
 ### Team
 
@@ -9,11 +9,11 @@
 
 * ARI
 
-###GitHub Repo
+### GitHub Repo
 
 https://github.com/asherani/Benson/
 
-###Problem Statement
+### Problem Statement
 
 Stakeholder: WTWY International
 
