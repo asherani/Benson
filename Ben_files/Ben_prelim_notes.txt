@@ -1,0 +1,58 @@
+Prelim notes
+
+applied here for a realtime api key
+https://datamine.mta.info/user/register
+
+link below has info for the api / data structure
+https://developers.google.com/transit/gtfs-realtime/
+
+Avenues to go down:
+
+	things to optimize for:
+				- # of people
+				- people "passionate about increasing women in tech" (from proposal email)
+				- "building awareness and outreach" (from proposal email)
+				- locations where people are more likely to stop and give contact info 
+	
+
+
+
+	variables to consider:
+				- what can act as proxies for the bottom three things to optimize?
+
+				- does more women entering a station lead to optimization of any of the above?
+					- can demographics of surrounding neighborhoods act as a proxy for "how many women are using this station relative to other stations?"
+					- can we make assumptions about which stations are going to have a higher proportion of women at regular, specific times?
+
+				- means of stations at same time across days of week (9-1 through 9-5 or whatever)
+				- means of stations at same time across same day in different weeks (Monday 9-1, Monday 9-8, Monday 9-15 etc)
+				- variances of stations at same time across days of week 
+				- variances of stations at same time across same day in different weeks
+				- means of stations in close proximity to one another (cluster stations somehow?)
+				- variance of stations in close proximity to one another (cluster stations somehow?)
+				- see if daily usage is correlated among any stations
+				
+	
+
+	Other data to consider:
+				
+				- weather data
+					- dummy variables of raining or not at time t, chance of rain time t + x hours, temp at time t, temp at time t + x hours  
+
+				- get summary data about transit usage from elsewhere to act as assumptions for bucketing / modeling?
+					- eg "60% of MTA traffic in midtown stations occurs between 7am-10am and 4pm-7pm"
+				-
+
+Done so far:
+	- started data cleaning python file
+	- determined station values not the same in station and ridership datasets
+	- got weather data 
+	- got documentation for station dataset, saved in repo
+
+
+Current questions:
+	- what are variables / values in ridership dataset
+
+next steps:
+	- find out what variables / values are
+	- look at means / variances / correlations as outlined above
