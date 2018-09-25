@@ -1,0 +1,10 @@
+LAT;;;;;40.7143;40.7143;40.7143;40.7143;40.7143;40.7143;40.7143;40.7143;40.7143
+LON;;;;;-74.0060;-74.0060;-74.0060;-74.0060;-74.0060;-74.0060;-74.0060;-74.0060;-74.0060
+ASL;;;;;10.0000;10.0000;10.0000;10.0000;10.0000;10.0000;10.0000;10.0000;10.0000
+CITY;;;;;New York;New York;New York;New York;New York;New York;New York;New York;New York
+DOMAIN;;;;;NEMSGLOBAL;NEMSGLOBAL;NEMSGLOBAL;NEMSGLOBAL;NEMSGLOBAL;NEMSGLOBAL;NEMSGLOBAL;NEMSGLOBAL;NEMSGLOBAL
+LEVEL;;;;;2 m above gnd;2 m above gnd;sfc;sfc;sfc;sfc;10 m above gnd;10 m above gnd;sfc
+NAME;;;;;Temperature;Relative Humidity;Total Precipitation;Snowfall amount raw;Sunshine Duration;Shortwave Radiation;Wind Speed;Wind Direction;Wind Gust
+UNIT;;;;;°F;%;mm;cm;min;W/m2;mph;°;mph
+AGGREGATION;;;;;;;;;;;;;
+UTC_OFFSET;;;;;-5;-5;-5;-5;-5;-5;-5;-5;-5
